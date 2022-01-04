@@ -19,3 +19,8 @@
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logoColor=white&logo=instagram"/>
   </a>
 </div>
+
+<div align='center'>
+  <p>Visitor Count&nbsp;</p>
+  <img src='https://profile-counter.glitch.me/billa_fy/count.svg'/>
+</div>

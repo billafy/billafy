@@ -20,7 +20,3 @@
   </a>
 </div>
 <br/>
-<div align='center'>
-  <p>Visitor Count&nbsp;</p>
-  <img src='https://profile-counter.glitch.me/billa_fy/count.svg'/>
-</div>

@@ -20,3 +20,5 @@
   </a>
 </div>
 <br/>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billafy&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)

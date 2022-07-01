@@ -21,4 +21,5 @@
 </div>
 <br/>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billafy&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)
+![Stats](https://github-readme-stats.vercel.app/api?username=just-dev-creator&show_icons=true&count_private=true&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billafy&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)
